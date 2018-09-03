@@ -1,0 +1,2301 @@
+{'brazil', 'brazilian'}
+{'john harbaugh'}
+{'jeff faine'}
+{'kenyan shilling', 'kenya shilling'}
+{'kenyan shilling', 'kenya shilling'}
+{'1923 world', '1923 world series'}
+{'swedish krona'}
+{'georgetown', 'georgetown university'}
+{'south carolina'}
+{'bright house field'}
+{'turkey'}
+{'dutch', 'nederlands'}
+{'illinois'}
+{'egypt'}
+{'cuban peso'}
+{'greece'}
+{'dari', 'persian', 'farsi', 'eastern farsi', 'tajik', 'afghan persian', 'parsi'}
+{'islam'}
+{'black'}
+{'south carolina', 'sc'}
+{'china'}
+{'new england patriots'}
+{'seleção'}
+{'roman catholic', 'catholicism'}
+{'united states', 'america', 'us', 'usa'}
+{'africa'}
+{'tajikistan'}
+{'1994 nba finals'}
+{'roman catholic', 'catholicism'}
+{'nepal'}
+{'rouble'}
+{'mali'}
+{'ukraine'}
+{'lung cancer'}
+{'north america'}
+{'nigeria'}
+{'new orleans saints'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'teacher'}
+{'state of florida', 'florida', 'fl'}
+{'south carolina', 'sc'}
+{'utah'}
+{'portugal'}
+{'turkey'}
+{'el escorial'}
+{'ukraine'}
+{'athens'}
+{'university of pisa'}
+{'ukraine'}
+{'peru'}
+{'hot springs high'}
+{'brazil', 'brazilian', 'brasil'}
+{'roman catholic'}
+{'siwi'}
+{'south african rand', 'rand'}
+{'europe'}
+{'roman catholic', 'catholicism'}
+{'guinea'}
+{'pittsburgh , pennsylvania', 'pittsburgh'}
+{'azerbaijan', 'republic of azerbaijan'}
+{'south african rand', 'rand'}
+{'ukraine'}
+{'islam'}
+{'henry ford'}
+{'islam'}
+{'ukraine'}
+{'central daylight time', 'central time', 'central standard time', 'central time zone'}
+{'park guell', 'park güell', 'parc güell'}
+{'french republic', 'france'}
+{'2004 nba finals'}
+{'china'}
+{'english', 'english language'}
+{'english'}
+{'ma', 'massachusetts'}
+{'yale', 'yale university'}
+{'putonghua', 'mandarin', 'mandarin chinese', 'standard mandarin', 'hanyu', 'standard chinese'}
+{'mandarin chinese'}
+{'south carolina', 'sc'}
+{'english', 'english language'}
+{'tunisian dinar'}
+{'bright house field'}
+{'kellen boswell winslow', 'kellen winslow ii', 'kellen winslow'}
+{'miami dolphins'}
+{'centurylink field'}
+{'hungary', 'magyarország'}
+{'protestantism', 'protestant'}
+{'south carolina', 'sc'}
+{'semi-presidential'}
+{'germany'}
+{'peru'}
+{'judaism'}
+{'swedish krona'}
+{'woodland park zoo'}
+{'1994 nba finals'}
+{'sunshine state', 'state of florida', 'florida'}
+{'tunisian dinar'}
+{'north america'}
+{'israel'}
+{'actor', 'film actor'}
+{'ukrainian hryvnia'}
+{'malibu'}
+{'featherdale wildlife park', 'featherdale wildlife'}
+{'john harbaugh'}
+{'south carolina', 'sc'}
+{'iraq'}
+{'west germany', 'bundesrepublik deutschland'}
+{'china'}
+{'minnesota vikings'}
+{'cuban peso'}
+{'ukrainian hryvnia'}
+{'or', 'oregon'}
+{'colombia'}
+{'pgh', 'pittsburgh'}
+{'minneapolis'}
+{'sikhism'}
+{'egypt'}
+{'roman catholic', 'catholicism'}
+{'ukraine'}
+{'urbis'}
+{'egypt'}
+{'ukrainian hrivna', 'ukrainian hryvnia'}
+{'man utd', 'the red devils', 'manchester united', 'man united'}
+{'seattle seahawks'}
+{'guatemala .', 'guatemala'}
+{'oxford university', 'university of oxford'}
+{'oxford university', 'university of oxford'}
+{'north america'}
+{'the hunger games'}
+{'temple university', 'temple'}
+{'1923 world', '1923 world series'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'ma', 'massachusetts'}
+{'abraham lincoln'}
+{'aymara'}
+{'ukrainian hryvnia'}
+{'university of arkansas', 'u of a'}
+{'austria'}
+{'michigan football'}
+{'afghanistan'}
+{'buddhism'}
+{'france'}
+{'catholicism'}
+{'battleship'}
+{'catholicism'}
+{'netherlands'}
+{'buddhism', 'buddhist'}
+{'athens'}
+{'yale', 'yale university'}
+{'wild life sydney'}
+{'saudi arabia'}
+{'iraq'}
+{'colorado', 'co'}
+{'vegas', 'las vegas'}
+{'manchester united', 'man united'}
+{'william morris'}
+{'muhammad zia-ul-haq'}
+{'1994 nba finals'}
+{'bahrain', 'kingdom of bahrain'}
+{'europe'}
+{'uae', 'emirates', 'united arab emirates'}
+{'aruban florin'}
+{'brazil'}
+{'france'}
+{'guinea'}
+{'siwi'}
+{'french republic', 'france', 'république française'}
+{'il', 'illinois'}
+{'china'}
+{'belarus'}
+{'the argentine', 'argentina'}
+{'tunisian dinar'}
+{'william shatner', 'bill'}
+{'finnish language', 'finnish'}
+{'lung cancer'}
+{'hungary'}
+{'mexican'}
+{'monaco'}
+{'judaism', 'jewish'}
+{'henry ford'}
+{'macushi'}
+{'nfl', 'national football league'}
+{'australian dollar', 'aud'}
+{'brazil', 'brazilian'}
+{'brazil', 'brazilian', 'brasil'}
+{'emp museum'}
+{'judaism', 'jewish'}
+{'hogle zoo'}
+{'chelsea fc', 'chelsea', 'chelsea football club'}
+{'egypt'}
+{'judaism', 'jewish'}
+{'china'}
+{'putonghua', 'standard chinese', 'mandarin', 'mandarin chinese'}
+{'jamaican dollar'}
+{'arsenal fc', 'the gunners', 'arsenal'}
+{'judaism', 'jewish'}
+{'los angeles'}
+{'south african rand', 'rand'}
+{'irish republic', 'republic of ireland'}
+{'bahamian dialect'}
+{'rabat'}
+{'france'}
+{'pittsburgh'}
+{'the gunners', 'arsenal fc', 'arsenal football club', 'arsenal f.c .', 'arsenal'}
+{'macushi'}
+{'denmark'}
+{'gettysburg', 'gettysburg college'}
+{'berlin , germany', 'berlin'}
+{'new orleans saints'}
+{'russia', 'russian federation'}
+{'tunisian dinar'}
+{'near east'}
+{'or', 'oregon'}
+{'islam'}
+{'the argentine', 'argentina'}
+{'israel'}
+{'tn', 'tennessee'}
+{'presidential'}
+{'united states', 'america', 'us'}
+{'pittsburgh , pennsylvania', 'pittsburgh , pa', 'pittsburgh'}
+{'the blues', 'chelsea fc', 'chelsea', 'chelsea football club'}
+{'the netherlands', 'netherlands', 'holland'}
+{'north america'}
+{'1983 world', '1983 world series'}
+{'north korea'}
+{'new orleans saints'}
+{'new york city', 'new york'}
+{'francois hollande', 'françois hollande'}
+{'heather'}
+{'missouri general assembly'}
+{'kenyan shilling', 'kenya shilling'}
+{'costa rican colon', 'costa rican colón'}
+{'seleção'}
+{'north america'}
+{'islam'}
+{'roman catholic'}
+{'galatasaray sk', 'galatasaray'}
+{'2004 nba finals'}
+{'the gunners', 'arsenal f.c .', 'arsenal', 'arsenal football club'}
+{'hayden christensen'}
+{'north america'}
+{'the canucks'}
+{'saudi arabia'}
+{'iowa state', 'iowa state university', 'isu'}
+{'islam'}
+{'iraq'}
+{'egypt'}
+{'euro', 'eur'}
+{'uruguay'}
+{'lawyer'}
+{'uae', 'emirates', 'united arab emirates'}
+{'málaga', 'malaga'}
+{'rabat'}
+{'guitar'}
+{'seattle aquarium'}
+{'post-impressionism'}
+{'french republic', 'france', 'république française'}
+{'oxford university', 'university of oxford'}
+{'egypt'}
+{'lebanon'}
+{'roman catholic', 'catholicism'}
+{'north america'}
+{'master chuang', 'zhuangzi', 'zhuangzi .'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'john harbaugh'}
+{'republic of bulgaria', 'bulgaria'}
+{'semi-presidential'}
+{'bright house field'}
+{'united states dollar', 'usd', 'us', 'us dollar'}
+{'pittsburgh , pennsylvania', 'pittsburgh'}
+{'new orleans saints'}
+{'north america'}
+{'gm korea'}
+{'egypt'}
+{'presidential'}
+{'nepal'}
+{'1994 nba finals'}
+{'2004 nba finals'}
+{'scre4m', 'scream 4'}
+{'south african rand', 'rand'}
+{'ukraine'}
+{'john warner', 'sen. john warner', 'senator john warner'}
+{'chuang tzu', 'zhuangzi'}
+{'real madrid'}
+{'ukraine'}
+{'miami dolphins'}
+{'lung cancer'}
+{'estonia'}
+{'semi-presidential'}
+{'tunisian dinar'}
+{'chuang tzu', 'zhuangzi'}
+{'islam'}
+{'brazil'}
+{'spain'}
+{'roman catholic', 'catholicism'}
+{'czech republic'}
+{'bright house field'}
+{'scotland'}
+{'honolulu', 'honolulu , hawaii'}
+{'rouble', 'russian ruble'}
+{'europe'}
+{'qwest field', 'centurylink field'}
+{'republic of bulgaria', 'bulgaria'}
+{'ukraine'}
+{'bill haslam'}
+{'south african rand', 'rand'}
+{'2004 nba finals'}
+{'argentine republic', 'the argentine', 'argentina'}
+{'asia'}
+{'sydney harbour'}
+{'belarus'}
+{'buddhism'}
+{'carrie fisher', 'carrie frances fisher'}
+{'temple university', 'temple'}
+{'judy', 'judy garland'}
+{'woodland park zoo'}
+{'pats', 'new england patriots'}
+{'germany'}
+{'miami dolphins'}
+{'christopher lee', 'sir christopher lee'}
+{'nfl', 'national football league'}
+{'woodland park zoo'}
+{'guam'}
+{'belarus'}
+{'roman catholic'}
+{'buddhist', 'buddhism'}
+{'arsenal fc', 'the gunners', 'arsenal'}
+{'judaism', 'jewish'}
+{'egypt'}
+{'asia'}
+{'finnish language', 'finnish'}
+{'presidential'}
+{'asia'}
+{'standard chinese', 'mandarin chinese', 'mandarin', 'hanyu'}
+{'zhuang zhou', 'chuang tzu', 'zhuangzi', 'zhuangzi .'}
+{'real madrid'}
+{'arwen', 'arwen undomiel'}
+{'kyrgyzstan'}
+{'semi-presidential'}
+{'john harbaugh'}
+{'roman catholic', 'catholicism'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'north america'}
+{'icelandic', 'icelandic language'}
+{'canada'}
+{'hayden christensen'}
+{'johnny manziel'}
+{'brazil', 'brazilian', 'brasil'}
+{'bohemia', 'czech republic'}
+{'post-impressionism'}
+{'persian'}
+{'abraham lincoln'}
+{'egypt'}
+{'marilyn monroe'}
+{'heather'}
+{'2004 nba finals'}
+{'ingolstadt'}
+{'judaism', 'jewish'}
+{'bahrain', 'kingdom of bahrain'}
+{'atlanta', 'atlanta , georgia'}
+{'termini station'}
+{'hu jintao'}
+{'centurylink field'}
+{'rouble', 'russian ruble'}
+{'mexicans', 'mexican'}
+{'camp rock'}
+{'battleship'}
+{'london'}
+{'english', 'english language'}
+{'scre4m', 'scream 4'}
+{'germany'}
+{'china'}
+{'china'}
+{'ice hockey', 'ice hockey team'}
+{'pats', 'new england patriots'}
+{'republic of chile', 'chile'}
+{'rabat'}
+{'judaism', 'jewish'}
+{'dutch'}
+{'kingdom of belgium', 'belgium'}
+{'belize'}
+{'brazil'}
+{'miami dolphins'}
+{'anglicanism', 'anglican'}
+{'prado museum'}
+{'madrid'}
+{'ukraine'}
+{'prado museum'}
+{'semi-presidential system', 'semi-presidential'}
+{'kansas city chiefs'}
+{'brazil', 'brazilian'}
+{'ma', 'massachusetts'}
+{'pats', 'new england patriots'}
+{'bulgaria'}
+{'hu jintao'}
+{'argentina'}
+{'jake lloyd'}
+{'muhammad zia-ul-haq'}
+{'ut', 'utah'}
+{'israel'}
+{'aruban florin'}
+{'hayden christensen'}
+{'germany'}
+{'nicolas sarkozy'}
+{'space needle'}
+{'kingdom of denmark', 'denmark'}
+{'ukrainian hryvnia'}
+{'islam'}
+{'hindu', 'hinduism'}
+{'iowa state', 'iowa state university', 'isu'}
+{'kansas city chiefs'}
+{'turkey'}
+{'zhuangzi'}
+{'china'}
+{'zhuangzi'}
+{'park güell', 'parc güell'}
+{'china'}
+{'protestant'}
+{'afghanistan'}
+{'jamaican dollar'}
+{'guinea'}
+{'kingdom of belgium', 'belgium'}
+{'nicolas sarkozy'}
+{'miami dolphins'}
+{'temple university', 'temple', 'tu'}
+{'2004 nba finals'}
+{'egypt'}
+{'charlottesville , virginia', 'charlottesville'}
+{'abraham lincoln'}
+{'christopher lee', 'sir christopher lee'}
+{'kingdom of denmark', 'denmark'}
+{'buddhism', 'buddhist'}
+{'argentina'}
+{'drowned', 'drowning'}
+{'costa rican colon', 'costa rican colón'}
+{'china'}
+{'judaism', 'jewish'}
+{'miami dolphins'}
+{'kansas'}
+{'roman catholic'}
+{'rick scott'}
+{'tn', 'tennessee'}
+{'françois hollande'}
+{'washington huskies football', 'washington football'}
+{'tunisian dinar'}
+{'abraham lincoln'}
+{'real madrid'}
+{'william shatner'}
+{'albanian'}
+{'miami dolphins'}
+{'canada'}
+{'iowa state', 'iowa state university', 'isu'}
+{'persian'}
+{'protestant'}
+{'ukraine'}
+{'south african rand', 'rand'}
+{'republic of chile', 'chile'}
+{'johns hopkins university', 'johns hopkins'}
+{'north america'}
+{'semi-presidential system', 'semi-presidential'}
+{'jamaican dollar'}
+{'luna park sydney'}
+{'belize'}
+{'battleship'}
+{'rouble', 'russian ruble'}
+{'cut bank'}
+{'robert rauschenberg'}
+{'racing driver', 'race car driver'}
+{'putonghua', 'standard mandarin', 'mandarin chinese', 'hanyu', 'mandarin'}
+{'eddie fisher'}
+{'the gunners', 'dial square', 'arsenal football club', 'arsenal f.c .', 'arsenal', 'royal arsenal'}
+{'hungary'}
+{'ovid'}
+{'cut bank'}
+{'manchester united fc', 'manchester united', 'the red devils'}
+{'thomas more'}
+{'real madrid'}
+{'south carolina', 'sc'}
+{'english', 'english language'}
+{'los angeles', 'la'}
+{'republic of turkey', 'turkey'}
+{'liverpool'}
+{'malibu'}
+{'battleship'}
+{'united kingdom', 'britain', 'uk'}
+{'finnish'}
+{'joe biden'}
+{'so undercover'}
+{'january jones'}
+{'london'}
+{'jamaican english'}
+{'guitar'}
+{'malibu , california', 'malibu'}
+{'ralph waldo emerson'}
+{'sacramento county'}
+{'21st century fox'}
+{'central daylight time'}
+{'françois hollande'}
+{'colorado', 'co', 'centennial state'}
+{'seattle art museum', 'seattle art'}
+{'university of arkansas'}
+{'argentina'}
+{'manhattan'}
+{'drowned', 'drowning'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'afghanistan', 'afganistan'}
+{'presidential system', 'presidential'}
+{'french republic', 'france'}
+{'the jonas brothers', 'joseph adam jonas', 'joe jonas', 'jonas brothers', 'joe'}
+{'atlanta', 'atlanta , ga'}
+{'hungarian language', 'hungarian'}
+{'new orleans saints'}
+{'putonghua', 'mandarin'}
+{'guinea'}
+{'actor', 'actress'}
+{'spanish', 'castellano'}
+{'barbara ann mikulski', 'barbara a. mikulski', 'barbara mikulski'}
+{'sydney harbour bridge'}
+{'swedish krona'}
+{'brazil national football'}
+{'london , england', 'london'}
+{'paraguay'}
+{'william shakespeare', 'shakespeare'}
+{'fresco'}
+{'rabat'}
+{'state of qatar', 'qatar'}
+{'austria'}
+{'english'}
+{'university of arkansas'}
+{'protestantism', 'protestant'}
+{'the last song'}
+{'nepal'}
+{'koran', 'quran'}
+{'new york city', 'new york'}
+{'english'}
+{'madera county'}
+{'henrik ibsen', 'ibsen'}
+{'blossom'}
+{'john warner', 'sen. john warner', 'senator john warner'}
+{'charles darwin'}
+{'belarus'}
+{'bulgaria'}
+{'christopher whitelaw pine', 'chris pine'}
+{'turkey'}
+{'kingdom', 'monarchy'}
+{'william shatner'}
+{'university of würzburg'}
+{'mapudungun', 'mapuche'}
+{'the netherlands', 'netherlands', 'holland'}
+{'rouble', 'russian ruble'}
+{'allan kaprow'}
+{'tunisian dinar'}
+{'belize'}
+{'hungary'}
+{'state of florida', 'florida'}
+{'rabat'}
+{'muhammad zia-ul-haq'}
+{'hennepin county'}
+{'guitar'}
+{'united states dollar', 'usd', 'us', 'us dollar'}
+{'south carolina', 'sc'}
+{'europe'}
+{'hu jintao'}
+{'university of arkansas'}
+{'azerbaijan'}
+{'ukraine'}
+{'home'}
+{'william shatner'}
+{'miami dolphins'}
+{'arwen', 'arwen undomiel'}
+{'sydney opera', 'sydney opera house'}
+{'steve burton', 'stephen burton', 'jack stephen burton'}
+{'william edward haslam', 'bill haslam'}
+{'the expendables 2'}
+{'albanian'}
+{'bulgaria'}
+{'the last song'}
+{'putonghua', 'mandarin', 'mandarin chinese', 'hanyu', 'standard chinese'}
+{'home'}
+{'actor', 'actress'}
+{'kansas'}
+{'chaucer', 'geoffrey chaucer'}
+{'south dakota'}
+{'hot springs high'}
+{'putonghua', 'standard mandarin', 'mandarin', 'mandarin chinese', 'standard chinese'}
+{'paraguay'}
+{'kenyan shilling'}
+{'south african rand', 'rand'}
+{'arsenal'}
+{'heather'}
+{'central standard time', 'central daylight time', 'central time'}
+{'hot springs high'}
+{'cnn'}
+{'egypt'}
+{'brazil', 'brazilian'}
+{'new york'}
+{'scotia', 'scotland'}
+{'brazil'}
+{'judith exner'}
+{'miami dolphins'}
+{'man ray', 'emmanuel radnitzky'}
+{'swedish krona'}
+{'scotland'}
+{'turkey'}
+{'scream 4'}
+{'susan nicole levin', 'susan nicole downey', 'levin', 'susan downey'}
+{'egypt'}
+{'scotland'}
+{'arabic , standard', 'modern literary arabic', 'modern standard arabic'}
+{'lung cancer'}
+{'queen lillian'}
+{'oscar wilde'}
+{'florence', 'florence , italy'}
+{'illinois'}
+{'sudan'}
+{'muhammad zia-ul-haq'}
+{'egypt'}
+{'czech republic'}
+{'guinea'}
+{'english', 'english language'}
+{'university of würzburg'}
+{'ukraine'}
+{'post-impressionism'}
+{'republic of bulgaria', 'bulgaria'}
+{'brazil'}
+{'viollet-le-duc', 'eugène viollet-le-duc', 'eugène emmanuel viollet-le-duc'}
+{'piano'}
+{'big fish'}
+{'english', 'english language'}
+{'duarte', 'duarte , california'}
+{'mexican peso'}
+{'new york'}
+{'bill haslam'}
+{'semi-presidential system', 'semi-presidential'}
+{'china'}
+{'presidential'}
+{'guinea'}
+{'il', 'illinois'}
+{'golden state', 'california'}
+{'henrik johan ibsen', 'henrik ibsen', 'ibsen'}
+{'arsenal fc', 'arsenal f.c .', 'arsenal', 'arsenal football club'}
+{'macushi'}
+{'john cage'}
+{'afghanistan'}
+{'joe biden', 'senator joe biden'}
+{'concord academy'}
+{'brazil national football'}
+{'marcel duchamp'}
+{'cut bank'}
+{'battleship'}
+{'actor', 'film actor'}
+{'jack lawless'}
+{'real madrid'}
+{'vatican', 'vatican city'}
+{'scre4m', 'scream 4'}
+{'muhammad zia-ul-haq'}
+{'standard chinese', 'mandarin chinese', 'mandarin', 'hanyu'}
+{'cuban peso'}
+{'turkey'}
+{'temple university', 'temple'}
+{'magyar', 'hungarian language', 'hungarian'}
+{'miami dolphins'}
+{'united states', 'america', 'us'}
+{'stewie griffin'}
+{'english'}
+{'cuban peso'}
+{'atlanta', 'atlanta , georgia'}
+{'constitutional monarchy'}
+{'lung cancer'}
+{'university of tulsa'}
+{'brazil', 'brazilian'}
+{'minneapolis'}
+{'south carolina'}
+{'emp museum'}
+{'nicolas sarkozy'}
+{'chuang tzu', 'zhuangzi'}
+{'sydney opera', 'sydney opera house'}
+{'sacha gervasi'}
+{'belarus'}
+{'kingdom', 'monarchy'}
+{'chile'}
+{'sacramento county'}
+{'europe'}
+{'china'}
+{'republic of chile', 'chile'}
+{'manhattan'}
+{'swedish krona'}
+{'semi-presidential'}
+{'tao te ching', 'dao de jing'}
+{'scre4m', 'scream 4'}
+{'yale law', 'yale law school'}
+{'volunteer state', 'tn', 'tennessee'}
+{'kansas'}
+{'battleship'}
+{'egypt'}
+{'klara hitler'}
+{'mandarin chinese'}
+{'new york'}
+{'china'}
+{'ryan reynolds'}
+{'atlanta', 'atlanta , georgia', 'atlanta , ga'}
+{'english', 'english language'}
+{'benin'}
+{'scotland'}
+{'nigeria'}
+{'europe'}
+{'the half-blood prince'}
+{'sudan'}
+{'the gunners', 'dial square', 'arsenal fc', 'arsenal football club', 'woolwich arsenal', 'arsenal', 'arsenal f.c .', 'royal arsenal'}
+{'egypt'}
+{'jamaican english'}
+{'kazakhstan'}
+{'2004 nba finals'}
+{'marilyn monroe'}
+{'albanian', 'albanian language'}
+{'the hunger games'}
+{'temple university', 'temple'}
+{'colorado', 'co'}
+{'jasper johns'}
+{'honolulu', 'honolulu , hawaii'}
+{'colorado', 'co'}
+{'book of changes', 'i ching'}
+{'step up 3', 'step up 3d'}
+{'catching fire'}
+{'jamie', 'james haven'}
+{'europe'}
+{'heather'}
+{'big fish'}
+{'kingdom', 'monarchy'}
+{'swedish language', 'swedish'}
+{'finnish language', 'finnish'}
+{'bohemia', 'czech republic'}
+{'arwen'}
+{'province of ontario', 'ontario', 'on'}
+{'english'}
+{'university of florida'}
+{'hardin county'}
+{'austria'}
+{'westland mall'}
+{'douglas county'}
+{'real madrid'}
+{'bohemia', 'czech republic'}
+{'europe'}
+{'marilyn monroe'}
+{'dallas , texas', 'dallas'}
+{'minneapolis , minnesota', 'minneapolis'}
+{'carrie fisher', 'carrie frances fisher'}
+{'jamaican dollar'}
+{'europe'}
+{'china'}
+{'teacher'}
+{'fox'}
+{'home'}
+{'january kristen jones', 'january jones'}
+{'manchester art gallery'}
+{'tom of finland', 'touko laaksonen', 'tom'}
+{'belgium'}
+{'english', 'english language'}
+{'turkey'}
+{'bohemia', 'czech republic'}
+{'eddie fisher'}
+{'mansfield , missouri', 'mansfield'}
+{'nyc', 'new york city', 'new york'}
+{'jumeirah beach hotel'}
+{'photography'}
+{'colorado', 'co'}
+{'sydney harbour bridge'}
+{'english', 'english language'}
+{'big fish'}
+{'esperanto'}
+{'florence', 'florence , italy'}
+{'brazil'}
+{'arsenal fc', 'arsenal'}
+{'semi-presidential'}
+{'dari', 'persian', 'farsi', 'tajik', 'afghan persian', 'parsi'}
+{'united states', 'america', 'us'}
+{'manhattan'}
+{'asia'}
+{'kevin jonas ii', 'the jonas brothers', 'paul kevin jonas', 'kevin jonas', 'jonas brothers'}
+{'guam'}
+{'united states'}
+{'bradford claude dourif', 'brad dourif', 'brad'}
+{'belize'}
+{'chile'}
+{'ukrainian hryvnia'}
+{'woodland park zoo'}
+{'new york city', 'new york'}
+{'battleship'}
+{'heather'}
+{'state of israel', 'israel'}
+{'aymara'}
+{'carrie fisher', 'carrie frances fisher'}
+{'tupelo , mississippi', 'tupelo'}
+{'the gunners', 'arsenal'}
+{'south african rand', 'rand'}
+{'big fish'}
+{'tao te ching', 'dao de jing'}
+{'frank stella'}
+{'the expendables 2'}
+{'yale', 'georgetown', 'yale university', 'georgetown university'}
+{'civil rights activist'}
+{'€', 'euro', 'eur'}
+{'kansas'}
+{'los angeles', 'la'}
+{'the deathly hallows'}
+{'rouble'}
+{'boston university', 'boston'}
+{'stunt performer'}
+{'weston cage', 'weston coppola', 'weston', 'weston coppola cage'}
+{'appendiceal cancer'}
+{'il', 'illinois'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'north america'}
+{'nepal'}
+{'kansas city chiefs'}
+{'jerry the minion'}
+{'egypt'}
+{'english'}
+{'algeria'}
+{'magyar', 'hungarian language', 'hungarian'}
+{'missouri general assembly'}
+{'london , england', 'london'}
+{'greek', 'greek language'}
+{'louisiana state'}
+{'seth woodbury macfarlane', 'seth macfarlane', 'stewie'}
+{'jack lawless'}
+{'central time'}
+{'iowa state', 'iowa state university'}
+{'bolivia'}
+{'bhutan'}
+{'nicolas sarkozy'}
+{'abraham lincoln'}
+{'christopher lee', 'chris', 'sir christopher lee'}
+{'classical music', 'classical'}
+{'los angeles'}
+{'the last song'}
+{'the blues', 'chelsea fc', 'chelsea', 'chelsea football club'}
+{'man ray', 'emmanuel radnitzky'}
+{'seneca'}
+{'tn', 'tennessee'}
+{'belgium'}
+{'richard burton', 'burton', 'dick'}
+{'egypt'}
+{'lung cancer'}
+{'english', 'english language'}
+{'brazil', 'brasil'}
+{'scre4m', 'scream 4'}
+{'abraham lincoln'}
+{'chile'}
+{'denmark'}
+{'finnish language', 'finnish'}
+{'brazil'}
+{'mountain time'}
+{'blossom'}
+{'les invalides'}
+{'universal studios dubailand'}
+{'brazil'}
+{'real madrid', 'los blancos', 'madrid football club'}
+{'kenyan shilling', 'kenya shilling'}
+{'catching fire'}
+{'belarus'}
+{'english', 'english language'}
+{'presidential'}
+{'chile'}
+{'heather'}
+{'liverpool'}
+{'mandarin dialects', 'mandarin chinese'}
+{'semi-presidential'}
+{'gauteng', 'gauteng province'}
+{'la pedrera', 'casa mila'}
+{'fox news channel'}
+{'muhammad zia-ul-haq'}
+{'news corporation', 'news corp'}
+{'czech republic'}
+{'ontario', 'on'}
+{'south africa'}
+{'felipe calderón'}
+{'big fish'}
+{'english'}
+{'persian', 'dari', 'afghan persian', 'farsi'}
+{'brazil'}
+{'united states', 'us'}
+{'ithaca tompkins airport'}
+{'scream 4'}
+{'colorado', 'co'}
+{'taiwan'}
+{'united kingdom', 'britain', 'great britain'}
+{'central time', 'central time zone'}
+{'new orleans saints'}
+{'atlanta', 'atlanta , georgia'}
+{'north america'}
+{'icelandic', 'icelandic language'}
+{'lung cancer'}
+{'abraham lincoln'}
+{'magyar', 'hungarian language', 'hungarian'}
+{'space needle'}
+{'simpson', 'simpson college'}
+{'niger'}
+{'semi-presidential system', 'semi-presidential'}
+{'esperanto'}
+{'nicky'}
+{'sc'}
+{'great britain', 'britain', 'uk', 'united kingdom'}
+{'sydney harbour bridge'}
+{'new orleans saints'}
+{'sorority wars'}
+{'brazil', 'brazilian'}
+{'hegel'}
+{'university of pisa'}
+{'big fish'}
+{'nepal'}
+{'egypt'}
+{'jerry the minion'}
+{'presidential'}
+{'john franklin', 'john paul salapatek'}
+{'fresco'}
+{'brazil', 'brazilian'}
+{'pascuense', 'easter island', 'rapa nui language', 'rapa nui'}
+{'post-impressionism'}
+{'scotland'}
+{'henry viii'}
+{'switzerland'}
+{'qatar'}
+{'brazil', 'brasil'}
+{'russia'}
+{'big fish'}
+{'university of tulsa'}
+{'guitar'}
+{'london'}
+{'asia'}
+{'lamar hunt'}
+{'the netherlands', 'netherlands', 'holland'}
+{'drowning'}
+{'gauteng', 'gauteng province'}
+{'jamaican english'}
+{'colorado', 'co'}
+{'sophocles'}
+{'south africa'}
+{'protestantism', 'protestant'}
+{'brazil', 'brazilian'}
+{'william edward haslam', 'bill haslam'}
+{'constitutional monarchy'}
+{'egypt'}
+{'finnish language', 'finnish'}
+{'christopher whitelaw pine', 'chris pine'}
+{'aden', 'yemen'}
+{'post-impressionism'}
+{'teacher'}
+{'lung cancer'}
+{'weston'}
+{'brazil'}
+{'tv presenter', 'presenter'}
+{'university of würzburg'}
+{'the deathly hallows'}
+{'pats', 'new england patriots'}
+{'iowa state', 'iowa state university'}
+{'home'}
+{'brazil'}
+{'central standard time', 'central time'}
+{'argentina'}
+{'london , england', 'london'}
+{'united states dollar', 'american dollar', 'us dollar', 'usd', 'us'}
+{'home'}
+{'nigeria'}
+{'oxford university', 'university of oxford'}
+{'william morris'}
+{'paraguay'}
+{'london , england', 'london'}
+{'france'}
+{'china'}
+{'columbia law school', 'columbia law'}
+{'billy miller'}
+{'william shakespeare', 'the bard', 'shakespeare', 'will shakespeare'}
+{'atlanta', 'atlanta , ga'}
+{'colombia'}
+{'asia'}
+{'hannah montana'}
+{'university of würzburg'}
+{'scre4m', 'scream 4'}
+{'francois hollande', 'françois hollande'}
+{'brazil', 'brazilian'}
+{'nicolas sarkozy'}
+{'golden state', 'california'}
+{'los angeles clippers'}
+{'mali'}
+{'hannah montana'}
+{'scream 4'}
+{'english'}
+{'manhattan'}
+{'hu jintao'}
+{'lucius annaeus seneca', 'seneca'}
+{'actor', 'film actor'}
+{'colorado', 'co'}
+{'marilyn monroe', 'the blonde bombshell'}
+{'new orleans saints'}
+{'novelist'}
+{'english'}
+{'jasper johns'}
+{'akawaio', 'ingarikó'}
+{'knowing'}
+{'alice upside down'}
+{'tunisian dinar'}
+{'carrie fisher', 'carrie frances fisher'}
+{'the apocalypse'}
+{'battleship'}
+{'gauteng'}
+{'lung cancer'}
+{'hannah montana'}
+{'heather'}
+{'harvard', 'harvard college'}
+{'manchester'}
+{'paraguay'}
+{'racing driver'}
+{'russian ruble'}
+{'heather'}
+{'smith tower'}
+{'hungarian language', 'hungarian'}
+{'buddhism', 'buddhist'}
+{'golden state', 'california'}
+{'iran'}
+{'parliamentary republic', 'parliamentary'}
+{'harvard', 'harvard university'}
+{'los angeles'}
+{'il', 'illinois'}
+{'larry fortensky'}
+{'colombia'}
+{'united states dollar', 'usd', 'us', 'us dollar'}
+{'egypt'}
+{'nigeria'}
+{'gavin mcgregor rossdale', 'gavin rossdale'}
+{'tajikistan'}
+{'sudan'}
+{'nick jonas', 'jonas brothers', 'the jonas brothers', 'nick'}
+{'albanian'}
+{'space needle'}
+{'saudi arabia'}
+{'battleship'}
+{'semi-presidential system', 'semi-presidential'}
+{'brazil', 'brasil'}
+{'lung cancer'}
+{'english', 'english language'}
+{'university of bonn'}
+{'sc'}
+{'hungary'}
+{'oświęcim', 'oswiecim'}
+{'athens'}
+{'south african rand', 'rand'}
+{'semi-presidential'}
+{'yale law', 'yale law school'}
+{'semi-presidential'}
+{'madera county'}
+{'central standard time', 'central daylight time', 'central time', 'central time zone'}
+{'mexican'}
+{'poet'}
+{'catching fire'}
+{'old trafford'}
+{'kenyan shilling', 'kenya shilling'}
+{'hungary'}
+{'university of arkansas'}
+{'dutch'}
+{'finola hughes'}
+{'brazil'}
+{'2001–02 fa cup'}
+{'azerbaijan'}
+{'nyc'}
+{'south africa'}
+{'egypt'}
+{'hu jintao'}
+{'algeria'}
+{'charlottesville , virginia', 'charlottesville'}
+{'bulgaria'}
+{'jewish'}
+{'colorado', 'co'}
+{'william morris'}
+{'bulgaria'}
+{'ryan reynolds'}
+{'iraq'}
+{'south african rand', 'rand'}
+{'g.w.f . hegel', 'hegel'}
+{'ukraine'}
+{'constitutional'}
+{'dari', 'persian', 'farsi', 'eastern farsi', 'tajik', 'afghan persian', 'parsi'}
+{'egypt'}
+{'guitar'}
+{'felipe calderon'}
+{'qatar'}
+{'koran', 'quran'}
+{'joe biden', 'senator joe biden'}
+{'abraham lincoln'}
+{'manchester'}
+{'chuang tzu', 'zhuangzi'}
+{'magyar', 'hungarian'}
+{'northern chinese', 'mandarin'}
+{'iowa state', 'iowa state university'}
+{'sudan'}
+{'peru'}
+{'felipe calderón'}
+{'english'}
+{'south african rand', 'rand'}
+{'big fish'}
+{'california , usa', 'california', 'ca'}
+{'johns hopkins university', 'johns hopkins'}
+{'manchester united'}
+{'swedish krona'}
+{'austria'}
+{'sky', 'bskyb'}
+{'slovakia'}
+{'belize'}
+{'washington huskies football', 'washington football'}
+{'honolulu', 'honolulu , hawaii'}
+{'china'}
+{'abraham lincoln'}
+{'big fish'}
+{'ephesus'}
+{'walnut grove'}
+{'big fish'}
+{'north korea'}
+{'hagar'}
+{'abraham lincoln'}
+{'yemen'}
+{'united states', 'us'}
+{'ephesus'}
+{'manchester', 'manchester museum'}
+{'nigeria'}
+{'dutch'}
+{'sacramento county'}
+{'putonghua', 'mandarin', 'mandarin chinese', 'hanyu', 'standard chinese'}
+{'ks', 'kansas'}
+{'english', 'english language'}
+{'marilyn monroe'}
+{'the last song'}
+{'mountain time', 'mountain time zone'}
+{'edgar poe', 'edgar allan poe', 'poe'}
+{'joe biden'}
+{'semi-presidential system', 'semi-presidential'}
+{'china'}
+{'temple university', 'temple'}
+{'belize'}
+{'les invalides'}
+{'mid-atlantic states', 'mid atlantic', 'middle atlantic states'}
+{'constitutional monarchy'}
+{'melissa joey'}
+{'the apocalypse'}
+{'germany'}
+{'hibbing'}
+{'icelandic'}
+{'sacha gervasi'}
+{'asia'}
+{'egypt'}
+{'arsenal fc', 'arsenal', 'arsenal football club'}
+{'guatemala'}
+{'heather'}
+{'swedish krona'}
+{'continental navy'}
+{'battleship'}
+{'new jack swing'}
+{'hungary'}
+{'roman emperor'}
+{'asia'}
+{'minneapolis'}
+{'turkey'}
+{'north america'}
+{'lung cancer'}
+{'austria'}
+{'the gunners', 'arsenal fc', 'arsenal', 'arsenal football club'}
+{'circumcision'}
+{'iowa state', 'iowa state university'}
+{'the netherlands', 'netherlands'}
+{'russian ruble'}
+{'peter löwenbräu griffin', 'peter griffin'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'monarchy'}
+{'news corporation', 'news corp'}
+{'prado museum'}
+{'drawing'}
+{'fürstentum liechtenstein', 'principality of liechtenstein', 'liechtenstein'}
+{'robert rauschenberg', 'milton ernest rauschenberg'}
+{'abraham lincoln'}
+{'françois hollande'}
+{'i ching'}
+{'missouri general assembly'}
+{'central standard time', 'central daylight time'}
+{'françois hollande'}
+{'klara hitler'}
+{'kansas'}
+{'florida'}
+{'abraham lincoln'}
+{'brazil'}
+{'semi-presidential'}
+{'manhattan'}
+{'columbia , sc', 'columbia'}
+{'saxophone'}
+{'abraham lincoln'}
+{'home'}
+{'egypt'}
+{'austria'}
+{'swedish krona'}
+{'john cage'}
+{'aymara'}
+{'abraham lincoln'}
+{'seattle seahawks'}
+{'oscar wilde'}
+{'cuban peso'}
+{'truman capote'}
+{'north america'}
+{'los angeles'}
+{'europe'}
+{'united states', 'america', 'us', 'usa'}
+{'the last song'}
+{'sikhism'}
+{'china', 'tibet autonomous region'}
+{'manhattan'}
+{'nicky'}
+{'kevin jonas ii', 'the jonas brothers', 'paul kevin jonas', 'kevin jonas', 'jonas brothers'}
+{'judaism', 'jewish'}
+{'melissa joey'}
+{'benin'}
+{'tn', 'tennessee'}
+{'drawing'}
+{'space needle'}
+{'morocco'}
+{'brazil', 'brazilian'}
+{'step up 3', 'step up 3d'}
+{'central standard time', 'central daylight time', 'central time'}
+{'post-impressionism'}
+{'presidential system', 'presidential'}
+{'brazil', 'brasil'}
+{'nicolas sarkozy'}
+{'the netherlands', 'netherlands', 'holland'}
+{'manchester united'}
+{'mandarin chinese'}
+{'michael mike todd', 'mike todd', 'michael todd'}
+{'bohemia', 'czech republic'}
+{'aymara'}
+{'mexican peso'}
+{'les invalides'}
+{'scre4m', 'scream 4'}
+{'madrid marathon'}
+{'bulgaria'}
+{'paraguay'}
+{'bill haslam'}
+{'home'}
+{'esperanto'}
+{'john cage'}
+{'switzerland'}
+{'republic of turkey', 'turkey'}
+{'camp nou', 'nou camp'}
+{'mexican peso'}
+{'pittsburgh , pennsylvania', 'pittsburgh , pa', 'pittsburgh'}
+{'finnish language', 'finnish'}
+{'bondi', 'bondi beach'}
+{'english'}
+{'pittsburgh , pennsylvania', 'pittsburgh'}
+{'teacher'}
+{'pound'}
+{'british pound', 'pound'}
+{'legoland florida'}
+{'tuol sleng genocide'}
+{'europe'}
+{'new jack swing'}
+{'kirkcaldy , scotland', 'kirkcaldy'}
+{'iraq'}
+{'egypt'}
+{'austria'}
+{'qatar'}
+{'nicolas sarkozy'}
+{'columbia , sc', 'columbia'}
+{'michigan state university', 'michigan state'}
+{'ukraine'}
+{'brazil'}
+{'ukraine'}
+{'français', 'french'}
+{'los angeles'}
+{'north america'}
+{'egypt'}
+{'oscar wilde'}
+{'florida'}
+{'presidential'}
+{'honolulu', 'honolulu , hawaii'}
+{'bill haslam'}
+{'steve burton'}
+{'william shatner'}
+{'state of florida', 'florida'}
+{'the last song'}
+{'michigan state university', 'michigan state'}
+{'north america'}
+{'swedish krona'}
+{'nick jonas', 'the jonas brothers', 'joseph adam jonas', 'jonas brothers', 'joe'}
+{'lawyer'}
+{'missouri general assembly'}
+{'ks', 'kansas'}
+{'catching fire'}
+{'francois hollande', 'françois hollande'}
+{'minneapolis'}
+{'michael wilding'}
+{'los angeles', 'la'}
+{'the last song'}
+{'manchester united', 'the red devils'}
+{'california'}
+{'master chuang', 'chuang tzu', 'zhuangzi', 'zhuangzi .'}
+{'home'}
+{'knowing'}
+{'the netherlands', 'netherlands'}
+{'the netherlands', 'netherlands', 'holland'}
+{'seattle great wheel'}
+{'battleship'}
+{'semi-presidential'}
+{'ontario', 'on'}
+{'nicolas sarkozy'}
+{'new england patriots'}
+{'north america'}
+{'columbia , sc', 'columbia'}
+{'north america'}
+{'portugal national football'}
+{'monarchy'}
+{'smith tower'}
+{'step up'}
+{'rabat'}
+{'bolt'}
+{'simpson', 'simpson college'}
+{'eddie fisher'}
+{'william morris'}
+{'afghanistan'}
+{'abraham lincoln'}
+{'france'}
+{'ks', 'kansas'}
+{'suicide'}
+{'tennessee'}
+{'meg griffin'}
+{'nyc', 'new york city', 'new york'}
+{'il', 'illinois'}
+{'truman capote'}
+{'mwinilunga'}
+{'john warner', 'senator john warner'}
+{'boston'}
+{'benin'}
+{'hungarian language', 'hungarian'}
+{'new york'}
+{'peter griffin'}
+{'semi-presidential'}
+{'belize'}
+{'malibu', 'malibu vista'}
+{'galatasaray sk', 'galatasaray'}
+{'siwi'}
+{'north america'}
+{'dry tortugas national'}
+{'de smet'}
+{'william shatner'}
+{'united kingdom', 'britain'}
+{'classical music', 'classical'}
+{'belarus'}
+{'real madrid', 'madrid football club'}
+{'america', 'us', 'usa'}
+{'appendiceal cancer', 'appendix cancer'}
+{'sophocles'}
+{'tennessee'}
+{'counsel'}
+{'missouri general assembly'}
+{'sacha gervasi'}
+{'home', 'happy smekday !'}
+{'tennessee'}
+{'norway'}
+{'egypt'}
+{'province of ontario', 'ontario', 'on'}
+{'france'}
+{'battleship'}
+{'united states', 'america', 'us', 'usa'}
+{'asia'}
+{'the apocalypse'}
+{'guitar'}
+{'lawyer'}
+{'missouri general assembly'}
+{'hawaii-aleutian time', 'hawaii-aleutian time zone'}
+{'news corp'}
+{'manchester united'}
+{'nicolas sarkozy'}
+{'finland'}
+{'palm jumeirah', 'palm'}
+{'central standard time', 'central time', 'central time zone'}
+{'so undercover'}
+{'richard lynn scott', 'rick scott'}
+{'de smet'}
+{'madrid , spain', 'madrid'}
+{'hannah montana'}
+{'william shakespeare', 'shakespeare'}
+{'alois schicklgruber', 'alois'}
+{'teacher'}
+{'henry viii'}
+{'finland'}
+{'abraham lincoln'}
+{'putonghua', 'standard mandarin', 'mandarin', 'mandarin chinese', 'standard chinese'}
+{'english'}
+{'ice hockey', 'ice hockey team'}
+{'wil wheaton', 'wil'}
+{'eddie fisher'}
+{'abraham lincoln'}
+{'euro'}
+{'truman capote'}
+{'china'}
+{'parque warner madrid'}
+{'gettysburg', 'gettysburg college'}
+{'brian griffin'}
+{'ontario', 'on'}
+{'charlottesville , virginia', 'charlottesville'}
+{'marc', 'marc blucas'}
+{'vegas', 'las vegas'}
+{'anne hathaway'}
+{'dallas , texas', 'dallas'}
+{'johns hopkins university', 'johns hopkins', 'jhu'}
+{'united states', 'america', 'us', 'usa'}
+{'protestant', 'protestantism'}
+{'black'}
+{'abraham lincoln'}
+{'ukraine'}
+{'old trafford'}
+{'nicolas sarkozy'}
+{'1992–93 fa cup'}
+{'statesman'}
+{'brian griffin'}
+{'south african rand', 'rand'}
+{'hibbing'}
+{'latvia'}
+{'brady quinn'}
+{'drug overdose'}
+{'prado museum'}
+{'belgium'}
+{'camp rock 2'}
+{'norway'}
+{'sacha gervasi'}
+{'english', 'english language'}
+{'abraham lincoln'}
+{'rouble', 'russian ruble'}
+{'poet'}
+{'henrik ibsen', 'ibsen'}
+{'hayden christensen'}
+{'carrie fisher', 'carrie frances fisher'}
+{'henry ford'}
+{'walter scott'}
+{'colombia'}
+{'icelandic', 'icelandic language', 'íslenska'}
+{'christopher lee', 'sir christopher lee'}
+{'man utd', 'manchester united'}
+{'richard burton', 'burton', 'dick'}
+{'miami', 'miami university'}
+{'the jonas brothers', 'joseph adam jonas', 'joe jonas', 'jonas brothers', 'joe'}
+{'wil wheaton', 'wil'}
+{'central standard time', 'central time', 'central time zone'}
+{'sc'}
+{'protestant'}
+{'mwinilunga'}
+{'step up'}
+{'athens'}
+{'cut bank'}
+{'appendiceal cancer', 'appendix cancer'}
+{'drug overdose'}
+{'françois hollande'}
+{'poet'}
+{'eddie fisher'}
+{'marilyn monroe'}
+{'the jonas brothers', 'joseph adam jonas', 'joe jonas', 'jonas brothers', 'joe'}
+{'presidential system', 'presidential'}
+{'space needle'}
+{'ryan reynolds'}
+{'bryce canyon national'}
+{'old trafford'}
+{'miami dolphins'}
+{'mexican peso'}
+{'judaism', 'jewish'}
+{'united states dollar', 'american dollar', 'us dollar', 'usd', 'us'}
+{'indo-european languages'}
+{'richard burton', 'burton'}
+{'priest'}
+{'miami dolphins'}
+{'palm jumeirah', 'palm'}
+{'valdosta state'}
+{'michael mike todd', 'mike todd', 'michael todd'}
+{'battleship'}
+{'miami dolphins'}
+{'greek', 'greek language'}
+{'drowning'}
+{'giza'}
+{'peter löwenbräu griffin', 'peter griffin'}
+{'steve burton', 'stephen burton', 'jack stephen burton'}
+{'los angeles'}
+{'kingdom', 'monarchy'}
+{'florida'}
+{'meg griffin'}
+{'henry ford'}
+{'robert rauschenberg', 'milton ernest rauschenberg'}
+{'finland'}
+{'book of changes', 'i ching'}
+{'or', 'oregon', 'beaver state'}
+{'turkey'}
+{'roman emperor'}
+{'mwinilunga'}
+{'tibet autonomous region', 'tibet'}
+{'dubai', 'dubai creek'}
+{'monarchy'}
+{'klara hitler'}
+{'john harbaugh'}
+{'argentina'}
+{'alice upside down'}
+{'chris pine'}
+{'presidential'}
+{'powerhouse', 'powerhouse museum'}
+{'classical music', 'classical'}
+{'egypt'}
+{'france'}
+{'south african rand', 'rand'}
+{'gavin mcgregor rossdale', 'gavin rossdale'}
+{'lung cancer'}
+{'rick scott'}
+{'richard burton', 'burton', 'dick'}
+{'hu jintao'}
+{'jake lloyd'}
+{'abraham lincoln'}
+{'monarchy'}
+{'battleship'}
+{'miami dolphins'}
+{'teacher'}
+{'lamar hunt'}
+{'mali'}
+{'dallas , texas', 'dallas'}
+{'legoland florida'}
+{'united states', 'america', 'usa'}
+{'poet'}
+{'jake lloyd'}
+{'english', 'english language'}
+{'melayu', 'malay language', 'standard malay', 'bahasa malayu', 'bahasa malaysia', 'melaju', 'malay', 'malayu'}
+{'africa'}
+{'protestantism', 'protestant'}
+{'the netherlands', 'netherlands'}
+{'speedy', 'sarko', 'nicolas sarkozy'}
+{'chelsea f.c .', 'chelsea fc', 'chelsea', 'the blues', 'chelsea football club'}
+{'kazakhstan'}
+{'abraham lincoln'}
+{'johns hopkins university', 'johns hopkins'}
+{'real madrid'}
+{'tenn', 'tn', 'tennessee'}
+{'william alan shatner', 'william shatner'}
+{'madrid arena'}
+{'luxembourg'}
+{'zhuangzi'}
+{'presidential'}
+{'burj khalifa', 'dubai tower'}
+{'brazil'}
+{'the blues', 'chelsea'}
+{'orbing'}
+{'johns hopkins university', 'johns hopkins'}
+{'zion national park', 'zion national'}
+{'step up 3', 'step up 3d'}
+{'niger'}
+{'dari', 'persian', 'farsi', 'tajik', 'afghan persian'}
+{'japanese language', 'japanese'}
+{'carrie fisher', 'carrie frances fisher'}
+{'brotherly love'}
+{'mike todd', 'michael todd'}
+{'north america'}
+{'charles darwin'}
+{'belgium'}
+{'houston oilers'}
+{'william shakespeare', 'the bard', 'shakespeare'}
+{'africa'}
+{'iraq'}
+{'finland'}
+{'richard burton', 'burton', 'dick'}
+{'anne hathaway'}
+{'la lingvo internacia', 'esperanto'}
+{'so undercover'}
+{'iran'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'austria'}
+{'nicolas sarkozy'}
+{'bondi', 'bondi beach'}
+{'h'}
+{'christopher lee', 'sir christopher lee'}
+{'belize'}
+{'true blood'}
+{'roman emperor'}
+{'germany'}
+{'robert rauschenberg'}
+{'william morris'}
+{'central standard time', 'central time', 'central time zone'}
+{'siwa', 'siwi'}
+{'sacha gervasi'}
+{'province of ontario', 'ontario', 'on'}
+{'scream 4'}
+{'olympique marseille'}
+{'knowing'}
+{'statesman'}
+{'georgia'}
+{'english'}
+{'drawing'}
+{'michigan football', 'michigan wolverines football'}
+{'egypt'}
+{'dry tortugas national'}
+{'sorrell booke'}
+{'space needle'}
+{'john warner', 'john w. warner', 'john william warner', 'senator john warner'}
+{'finnish'}
+{'news corporation', 'news corp'}
+{'scotland'}
+{'manhattan'}
+{'oxford university', 'university of oxford'}
+{'abraham lincoln'}
+{'english'}
+{'the last song'}
+{'william alan shatner', 'william shatner'}
+{'minnesota vikings'}
+{'brotherly love'}
+{'marcel duchamp'}
+{'helena'}
+{'portugal'}
+{'melissa joey'}
+{'parliamentary'}
+{'anne hathaway'}
+{'dallas'}
+{'china'}
+{'central standard time', 'central daylight time', 'central time', 'central time zone'}
+{'mansfield , missouri', 'walnut grove'}
+{'columbia law school', 'columbia law'}
+{'semi-presidential system', 'semi-presidential'}
+{'mwinilunga'}
+{'businessman'}
+{'ma', 'massachusetts'}
+{'united states dollar', 'us currency', 'us dollar', 'usd', 'us'}
+{'semi-presidential'}
+{'sacha gervasi'}
+{'federal republic', 'federal'}
+{'hungary'}
+{'post-impressionism'}
+{'austria'}
+{'europe'}
+{'stillwater'}
+{'bolt'}
+{'portugal'}
+{'hardin county'}
+{'tao te ching', 'dao de jing'}
+{'vegas', 'las vegas'}
+{'il', 'land of lincoln', 'illinois'}
+{'nigeria'}
+{'the gunners', 'arsenal f.c .', 'arsenal'}
+{'irish republic', 'republic of ireland', 'éire'}
+{'william shakespeare', 'shakespeare'}
+{'united states', 'america', 'us'}
+{'los angeles', 'la'}
+{'wil wheaton', 'wil'}
+{'magyar', 'hungarian language', 'hungarian'}
+{'rick scott'}
+{'judaism', 'jewish'}
+{'colorado', 'co'}
+{'blossom'}
+{'dutch'}
+{'belarus'}
+{'thomas more', 'sir thomas more'}
+{'manhattan'}
+{'canada'}
+{'dallas'}
+{'heather'}
+{'gettysburg', 'gettysburg college'}
+{'jumeirah beach hotel'}
+{'united states', 'usa'}
+{'piano'}
+{'lietuvos respublika', 'lithuania'}
+{'united states', 'us'}
+{'austria'}
+{'arwen', 'arwen undomiel', 'arwen evenstar'}
+{'man ray'}
+{'jasper johns'}
+{'hannah montana'}
+{'joe biden'}
+{'nick jonas', 'jonas brothers', 'the jonas brothers', 'nick'}
+{'true blood'}
+{'united states', 'america', 'us'}
+{'abraham lincoln'}
+{'sydney opera', 'sydney opera house'}
+{'the gunners', 'arsenal', 'arsenal football club'}
+{'final harvest'}
+{'camp rock'}
+{'estonia'}
+{'monarchy'}
+{'teacher'}
+{'kyrgyzstan'}
+{'giza , egypt', 'giza'}
+{'standard chinese', 'standard mandarin', 'mandarin'}
+{'nicolas sarkozy'}
+{'scre4m', 'scream 4'}
+{'henrik johan ibsen', 'henrik ibsen', 'ibsen'}
+{'big fish'}
+{'finnish language', 'finnish'}
+{'ukrainian hryvnia'}
+{'tunisia'}
+{'gavin rossdale'}
+{'vatican', 'vatican city', 'holy see'}
+{'belize'}
+{'john warner', 'senator john warner'}
+{'triangle'}
+{'nyc', 'new york city', 'new york'}
+{'abraham lincoln'}
+{'ukrainian hryvnia'}
+{'kingdom of denmark', 'denmark'}
+{'denmark'}
+{'minnesota vikings'}
+{'the last song'}
+{'manhattan'}
+{'battleship'}
+{'françois hollande'}
+{'david silver'}
+{'costa rican colón'}
+{'abraham lincoln', 'abe lincoln'}
+{'new york city', 'new york'}
+{'central standard time', 'central time', 'central time zone'}
+{'ryan reynolds'}
+{'charles darwin'}
+{'portuguese language', 'portuguese'}
+{'johnny manziel'}
+{'buddhism', 'buddhist'}
+{'tupelo , mississippi', 'tupelo'}
+{'semi-presidential system', 'semi-presidential'}
+{'nigeria'}
+{'judaism', 'jewish'}
+{'belarus'}
+{'icelandic', 'icelandic language', 'íslenska'}
+{'jamaican dollar'}
+{'province of ontario', 'ontario', 'on'}
+{'putonghua', 'standard mandarin', 'mandarin', 'mandarin chinese', 'standard chinese'}
+{'nigel pulsford'}
+{'belgium'}
+{'english'}
+{'esperanto'}
+{'knowing'}
+{'kingdom', 'monarchy'}
+{'gavin mcgregor rossdale', 'gavin rossdale'}
+{'austria'}
+{'algeria'}
+{'edgar allan poe', 'poe'}
+{'mountain time', 'mountain time zone'}
+{'china'}
+{'nick jonas', 'jonas brothers', 'the jonas brothers', 'nick'}
+{'joshua morrow'}
+{'illinois'}
+{'paranoia'}
+{'mexicans', 'mexican'}
+{'nicolas sarkozy'}
+{'united states dollar', 'usd', 'us', 'us dollar'}
+{'english', 'english language'}
+{'joe biden'}
+{'esperanto', 'esperanto language'}
+{'semi-presidential'}
+{'scream 4'}
+{'1990 nba finals'}
+{'new york'}
+{'the last song'}
+{'the netherlands', 'netherlands'}
+{'bradford claude dourif', 'brad dourif', 'brad'}
+{'colorado', 'co'}
+{'step up 3', 'step up 3d'}
+{'new orleans saints'}
+{'bryce canyon national'}
+{'helena'}
+{'abraham lincoln'}
+{'kingdom', 'monarchy'}
+{'master chuang', 'zhuangzi', 'zhuangzi .'}
+{'ukrainian hryvnia'}
+{'drowned', 'drowning'}
+{'new york yankees', 'yankees'}
+{'christopher lee', 'sir christopher lee'}
+{'lawyer'}
+{'joe biden'}
+{'new york city', 'new york'}
+{'united states', 'america', 'us'}
+{'lyricist'}
+{'kingdom', 'monarchy'}
+{'benin'}
+{'usd', 'us', 'us dollar'}
+{'costa rican colon', 'costa rican colón'}
+{'hayden christensen'}
+{'william shatner'}
+{'bolt'}
+{'miami dolphins'}
+{'los angeles', 'la'}
+{'dari', 'persian', 'farsi', 'eastern farsi', 'afghan persian', 'parsi'}
+{'al-bukhārī', 'sahih al-bukhari'}
+{'black'}
+{'battleship'}
+{'steve burton', 'stephen burton', 'jack stephen burton'}
+{'north america'}
+{'minneapolis'}
+{'vegas', 'las vegas'}
+{'nfl', 'national football league'}
+{'blossom'}
+{'united states dollar'}
+{'paraguay'}
+{'the apocalypse'}
+{'tunisian dinar'}
+{'william shakespeare', 'shakespeare'}
+{'presidential system', 'presidential'}
+{'icelandic', 'icelandic language', 'íslenska'}
+{'austria'}
+{'il', 'illinois'}
+{'robert rauschenberg'}
+{'blossom'}
+{'finola hughes'}
+{'il', 'illinois'}
+{'aymara'}
+{'françois hollande'}
+{'lojban'}
+{'english'}
+{'sorority wars'}
+{'nicolas sarkozy'}
+{'cancer'}
+{'joe biden'}
+{'valdosta state'}
+{'jones', 'james earl jones'}
+{'judy', 'judy garland'}
+{'the last song'}
+{'classical music', 'classical'}
+{'charles darwin'}
+{'presidential system', 'presidential'}
+{'united states', 'america', 'us'}
+{'real madrid', 'sociedad madrid fc', 'madrid football club'}
+{'abraham lincoln'}
+{'germany'}
+{'robert rauschenberg'}
+{'presidential'}
+{'france'}
+{'de smet'}
+{'norway'}
+{'edgar allen poe', 'edgar poe', 'edgar allan poe', 'poe'}
+{'new orleans saints'}
+{'miami', 'miami university'}
+{'florida state'}
+{'home'}
+{'rabat'}
+{'malibu'}
+{'charles darwin'}
+{'blossom'}
+{'abraham lincoln'}
+{'nigel pulsford'}
+{'trent richardson'}
+{'1995 nba finals'}
+{'the hunger games'}
+{'colorado', 'co'}
+{'english'}
+{'john warner', 'john william warner'}
+{'de smet'}
+{'rick scott'}
+{'zhuang zhou', 'zhuangzi', 'zhuangzi .'}
+{'south africa'}
+{'gavin mcgregor rossdale', 'bush-x', 'gavin rossdale'}
+{'kingdom', 'monarchy'}
+{'saami', 'same'}
+{'lung cancer'}
+{'jonas brothers', 'joe jonas', 'joe', 'the jonas brothers'}
+{'dave parsons'}
+{'nicolas sarkozy'}
+{'kansas'}
+{'berlin'}
+{'step up 5'}
+{'albanian', 'albanian language'}
+{'true blood'}
+{'charles darwin'}
+{'jake lloyd'}
+{'united kingdom', 'britain', 'great britain'}
+{'missouri senate'}
+{'algeria'}
+{'scotland'}
+{'helena', 'helena , montana'}
+{'estonia'}
+{'canada'}
+{'helena', 'helena , montana'}
+{'protestant'}
+{'bahamian dialect'}
+{'benin'}
+{'presidential system', 'presidential'}
+{'slovakia', 'the slovak republic'}
+{'roman catholic'}
+{'egypt'}
+{'georgia'}
+{'south carolina', 'sc'}
+{'actor', 'film actor'}
+{'canada'}
+{'staten island zoo'}
+{'felipe calderón'}
+{'brazil', 'brazilian', 'brasil'}
+{'asia'}
+{'iraq'}
+{'wild life sydney'}
+{'navajo'}
+{'nfl', 'national football league'}
+{'israel'}
+{'iowa state', 'iowa state university', 'isu'}
+{'china'}
+{'university of arkansas', 'u of a'}
+{'hawaii-aleutian time', 'hawaii-aleutian time zone'}
+{'honolulu', 'honolulu , hawaii'}
+{'buddhist', 'buddhism'}
+{'sagrada família'}
+{'semi-presidential'}
+{'ingolstadt', 'ingolstadt , germany'}
+{'presidential'}
+{'muhammad zia-ul-haq'}
+{'ualr'}
+{'battleship'}
+{'egypt'}
+{'nfl', 'national football league'}
+{'colo', 'colorado', 'co'}
+{'south carolina', 'sc'}
+{'miami dolphins'}
+{'portugal'}
+{'tunisian dinar'}
+{'francois hollande', 'françois hollande'}
+{'presidential system', 'presidential'}
+{'north america'}
+{'richard lynn scott', 'rick scott'}
+{'north america'}
+{'black'}
+{'mexican peso'}
+{'counsel', 'lawyer'}
+{'brazil', 'brasil'}
+{'de smet'}
+{'english', 'english language'}
+{'kansas'}
+{'belgium'}
+{'the western kingdom', 'morocco', 'kingdom of morocco', 'the west'}
+{'central time', 'central time zone'}
+{'the deathly hallows'}
+{'english', 'english language'}
+{'2004 nba finals'}
+{'tunisian dinar'}
+{'michigan football', 'michigan wolverines football'}
+{'sorority wars'}
+{'north america'}
+{'seattle seahawks'}
+{'madrid'}
+{'rabat'}
+{'drowning'}
+{'bahrain'}
+{'university of oxford'}
+{'presidential'}
+{'university of arkansas'}
+{'radcliffe college', 'radcliffe'}
+{'brazil', 'brazilian'}
+{'trolley square'}
+{'constitutional monarchy'}
+{'the apocalypse'}
+{'william shakespeare', 'shakespeare', 'william shakspere', 'shakspere'}
+{'peru'}
+{'egypt'}
+{'1995 nba finals'}
+{'news corporation', 'news corp'}
+{'appendiceal cancer', 'appendix cancer'}
+{'abraham lincoln'}
+{'colombia'}
+{'space needle'}
+{'state of qatar'}
+{'step up'}
+{'triangle'}
+{'javanese', 'javanese language'}
+{'belarus'}
+{'united states', 'us'}
+{'the states', 'united states', 'america'}
+{'miami dolphins'}
+{'gettysburg', 'gettysburg college'}
+{'french language', 'french'}
+{'english'}
+{'columbia law school', 'columbia law'}
+{'felipe calderón'}
+{'constitutional monarchy'}
+{'asia'}
+{'meg griffin'}
+{'ualr'}
+{'ukraine'}
+{'rick scott'}
+{'battleship'}
+{'austria'}
+{'english', 'english language'}
+{'presidential'}
+{'ukraine'}
+{'brazil', 'brazilian'}
+{'egypt'}
+{'manchester cathedral'}
+{'france'}
+{'egypt'}
+{'banjo'}
+{'ukraine'}
+{'new england patriots'}
+{'dutch'}
+{'new jack swing'}
+{'hungary'}
+{'colorado', 'co'}
+{'illinois'}
+{'de smet'}
+{'bohemia', 'czech republic'}
+{'america', 'us'}
+{'georgetown', 'georgetown university'}
+{'truman capote'}
+{'switzerland'}
+{'the deathly hallows'}
+{'oscar wilde'}
+{'colorado', 'co', 'centennial state'}
+{'gettysburg', 'gettysburg college'}
+{'asia'}
+{'smith tower'}
+{'monaco'}
+{'bolt'}
+{'true blood'}
+{'william shakespeare', 'the bard', 'shakespeare'}
+{'rouble', 'russian ruble'}
+{'icelandic', 'icelandic language'}
+{'dubai', 'khor dubai', 'dubai creek'}
+{'henrik johan ibsen', 'henrik ibsen', 'ibsen'}
+{'robin goodridge'}
+{'spain national football', 'la roja'}
+{'america', 'us', 'usa'}
+{'peter griffin'}
+{'new york city', 'new york'}
+{'english', 'english language'}
+{'south african rand', 'rand'}
+{'bolt'}
+{'parque warner madrid'}
+{'space needle'}
+{'drawing'}
+{'blossom'}
+{'the expendables 2'}
+{'constitutional monarchy'}
+{'pashto'}
+{'g.w.f . hegel', 'hegel'}
+{'mountain time'}
+{'new jack swing'}
+{'basel', 'basel , switzerland'}
+{'helena'}
+{'pamphleteer'}
+{'german democratic republic', 'east germany', 'ddr'}
+{'independence day 2'}
+{'vegas', 'las vegas'}
+{'big fish'}
+{'hawaii-aleutian time', 'hawaii-aleutian time zone'}
+{'aruban florin'}
+{'barbara a. mikulski'}
+{'the hunger games'}
+{'scotland'}
+{'brazil'}
+{'1983 world', '1983 world series'}
+{'united states', 'america', 'us', 'usa'}
+{'marilyn monroe'}
+{'true blood'}
+{'estonia'}
+{'civil rights activist'}
+{'sorrell booke'}
+{'true blood'}
+{'china'}
+{'camp nou'}
+{'scre4m', 'scream 4'}
+{'russia'}
+{'egypt'}
+{'north america'}
+{'dutch', 'dutch language'}
+{'francois hollande', 'françois hollande'}
+{'luna park sydney'}
+{'r b'}
+{'tibidabo'}
+{'alex borstein', 'alex'}
+{'republic of ireland'}
+{'english'}
+{'lyricist'}
+{'aymara'}
+{'lung cancer'}
+{'colorado'}
+{'bright house field'}
+{'bali', 'balinese'}
+{'lojban'}
+{'scotland'}
+{'nicolas sarkozy'}
+{'english'}
+{'gauteng', 'gauteng province'}
+{'john warner', 'john william warner'}
+{'stillwater , minnesota'}
+{'lawyer'}
+{'big fish'}
+{'battleship'}
+{'united states', 'america', 'us'}
+{'columbia law school', 'columbia law'}
+{'swedish krona'}
+{'mexican peso'}
+{'chuang tzu', 'zhuangzi'}
+{'islam'}
+{'united states', 'us'}
+{'semi-presidential'}
+{'benjamin cardin', 'ben cardin'}
+{'jamaican english'}
+{'joe biden', 'joseph robinette biden', 'joseph biden'}
+{'china'}
+{'judaism', 'jewish'}
+{'canada'}
+{'john harbaugh'}
+{'united states dollar', 'american dollar', 'us dollar', 'usd', 'us'}
+{'la roja'}
+{'kansas city chiefs'}
+{'iraq'}
+{'asia'}
+{'europe'}
+{'semi-presidential'}
+{'united states', 'us'}
+{'university of arkansas'}
+{'kansas'}
+{'ukraine'}
+{'canada'}
+{'james haven voight', 'james haven'}
+{'pats', 'new england patriots'}
+{'scotia', 'scotland'}
+{'jerzy buzek'}
+{'china'}
+{'georgetown', 'georgetown university'}
+{'colombia'}
+{'standard chinese', 'mandarin'}
+{'san francisco 49ers', '49ers'}
+{'brazil', 'brazilian', 'brasil'}
+{'drowned', 'drowning'}
+{'heather'}
+{'burj khalifa', 'burj dubai'}
+{'aslan', 'galatasaray', 'cimbom'}
+{'atlanta', 'atlanta , georgia', 'atlanta , ga'}
+{'islam'}
+{'chuang tzu', 'zhuangzi'}
+{'brad dourif', 'brad'}
+{'egypt'}
+{'farsi', 'persian', 'dari', 'afghan persian'}
+{'mandarin chinese'}
+{'dubai zoo'}
+{'brady quinn'}
+{'minnesota vikings'}
+{'czech republic'}
+{'scotland'}
+{'dutch'}
+{'athens'}
+{'ovid'}
+{'edmund spenser'}
+{'colombia'}
+{'africa'}
+{'egypt'}
+{'nicolas sarkozy'}
+{'english', 'english language'}
+{'canada'}
+{'man ray'}
+{'temple university', 'temple'}
+{'finnish language', 'finnish'}
+{'austria'}
+{'nicolas sarkozy'}
+{'burj khalifa', 'burj dubai'}
+{'malaga'}
+{'tunisian dinar'}
+{'shakespeare'}
+{'french republic', 'france'}
+{'tunisia'}
+{'the hunger games'}
+{'carrie fisher', 'carrie frances fisher'}
+{'presidential'}
+{'turkey'}
+{'standard chinese', 'mandarin'}
+{'mexicans', 'mexican'}
+{'north america'}
+{'new york'}
+{'man ray'}
+{'harvard'}
+{'belize'}
+{'battleship'}
+{'new orleans saints'}
+{'kirkcaldy , fife', 'kirkcaldy'}
+{'actor', 'film actor'}
+{'cuban peso'}
+{'hennepin county'}
+{'belize'}
+{'belarus'}
+{'lung cancer'}
+{'guinea'}
+{'university of pisa'}
+{'brazil'}
+{'poet'}
+{'bahrain'}
+{'university of arkansas'}
+{'finnish'}
+{'golden state', 'california'}
+{'university of arkansas'}
+{'ryan reynolds'}
+{'iowa state', 'iowa state university'}
+{'colorado', 'co'}
+{'ukrainian hryvnia'}
+{'belarus'}
+{'buddhism', 'buddhist'}
+{'voorlezer s house'}
+{'asia'}
+{'siwa', 'siwi', 'zenati', 'siwi language'}
+{'1984 nba draft'}
+{'the last song'}
+{'united states', 'america', 'us', 'usa'}
+{'madrid , spain', 'madrid'}
+{'hennepin county'}
+{'bradford claude dourif', 'brad dourif', 'brad'}
+{'united kingdom', 'britain', 'uk', 'great britain'}
+{'egypt'}
+{'peru'}
+{'new york', 'new-york'}
+{'drowned', 'drowning'}
+{'giza'}
+{'guarauno', 'warao language', 'guarao', 'warrau', 'warao'}
+{'mexican'}
+{'scotland'}
+{'blossom'}
+{'abraham lincoln'}
+{'william shatner', 'bill'}
+{'czech republic'}
+{'nigeria'}
+{'john warner', 'john william warner', 'sen. john warner', 'senator john warner'}
+{'madrid'}
+{'south africa'}
+{'united states', 'america', 'us', 'usa'}
+{'camp nou'}
+{'österreich', 'austria'}
+{'marilyn monroe', 'mm', 'norma jeane mortenson'}
+{'kansas'}
+{'brazil', 'brazilian'}
+{'henrik johan ibsen', 'henrik ibsen', 'ibsen'}
+{'smith tower'}
+{'israel'}
+{'battleship'}
+{'mwinilunga'}
+{'1994 nba finals'}
+{'the gunners', 'arsenal'}
+{'scream 4'}
+{'albanian'}
+{'manhattan'}
+{'scre4m', 'scream 4'}
+{'il', 'illinois'}
+{'finnish language', 'finnish'}
+{'michigan football', 'michigan wolverines football'}
+{'mandarin chinese'}
+{'battleship'}
+{'william edward haslam', 'bill haslam'}
+{'arsenal fc', 'arsenal'}
+{'john cage'}
+{'buddhism'}
+{'statesman'}
+{'sydney opera', 'sydney opera house'}
+{'the 26 counties', 'republic of ireland'}
+{'kenya shilling'}
+{'los angeles', 'la'}
+{'judaism', 'jewish'}
+{'charles darwin'}
+{'henrik ibsen', 'ibsen'}
+{'presidential'}
+{'monarchy'}
+{'presidential'}
+{'burma', 'myanmar', 'myanmar burma'}
+{'january kristen jones', 'january jones'}
+{'step up'}
+{'brazil', 'brazilian'}
+{'bud adams'}
+{'monarchy'}
+{'fear island'}
+{'simpson', 'simpson college'}
+{'kazakhstan'}
+{'ukrainian hryvnia'}
+{'nick jonas', 'the jonas brothers', 'nicholas jerry jonas', 'jonas brothers', 'nick'}
+{'los angeles', 'la'}
+{'paranoia'}
+{'paranoia'}
+{'peter griffin'}
+{'pamphleteer'}
+{'north america'}
+{'algeria'}
+{'english'}
+{'rick scott'}
+{'republic of lithuania', 'lithuania'}
+{'liechtenstein'}
+{'bill shatner', 'william shatner', 'bill'}
+{'paris'}
+{'georgia'}
+{'sydney harbour', 'port jackson'}
+{'kazakhstan'}
+{'united states dollar', 'usd', 'us', 'us dollar'}
+{'greece'}
+{'monotheism'}
+{'alois schicklgruber', 'alois hitler', 'alois'}
+{'sacha gervasi'}
+{'tibidabo'}
+{'gavin mcgregor rossdale', 'gavin rossdale'}
+{'ks', 'kansas'}
+{'or', 'oregon'}
+{'province of ontario', 'ontario', 'on'}
+{'louisiana state university', 'lsu', 'louisiana state'}
+{'parque warner madrid'}
+{'henrik johan ibsen', 'henrik ibsen', 'ibsen'}
+{'hayden christensen'}
+{'makusi', 'teweya', 'macussi', 'macusi', 'macushi', 'teueia', 'macushi language', 'makushi', 'makuxi'}
+{'magyar', 'hungarian language', 'hungarian'}
+{'step up 3d'}
+{'guatemala .', 'guatemala'}
+{'dari', 'persian', 'farsi', 'tajik', 'afghan persian'}
+{'burj khalifa'}
+{'hindu', 'hinduism'}
+{'hawaii-aleutian time', 'hawaii-aleutian time zone'}
