@@ -1,5 +1,5 @@
 from config import config, parseArgs
-from model_poc import MACnet
+from model import MACnet
 import tensorflow as tf
 import time
 import sys
