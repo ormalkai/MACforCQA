@@ -1,12 +1,9 @@
-torch
 numpy
-Pillow
-scipy
-torchvision
-h5py
 tensorflow
+keras
+nltk
 tqdm
-termcolor
+scipy
 matplotlib
 seaborn
 pandas
