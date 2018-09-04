@@ -6,6 +6,7 @@ of Drew A. Hudson & Christopher D. Manning.
 
 ## How to run the code
 To achieve our results run the command:
+
 python ./main.py --expName exp1 --train --epochs 2 --netLength 5 --outSnippet --writeSelfAtt --outFinalCtrl --top_k_candidates 50 --l2 1 --test --getAtt @configs/args.txt
 
 ## Introduction
